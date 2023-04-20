@@ -1,0 +1,15 @@
+Total 319 Observations 
+
+
+obs_[0-45], whose meaning is same as stated in this page
+https://robotics.farama.org/envs/adroit_hand/adroit_hammer/
+
+obs_[46-108], the next 21*3 observations:
+xpos (x-y-z) of 21 touch sensors, where xpos means the world frame position representations
+
+obs_[109-129],the next 21 observations:
+force value of 21 touch sensors 
+
+obs_[130-318],the next 21*9 observations:
+xmat (9 orientation values, which means 3 rotated vectors of x-y-z) of touch sensors
+
