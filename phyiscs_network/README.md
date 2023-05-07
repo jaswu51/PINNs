@@ -2,7 +2,7 @@
 
 https://www.youtube.com/watch?v=DCfIofZ6BY8
 
-### Friction detection between Isaac Sim and Mujoco
+### Friction detection yes in Isaac Sim and no in Mujoco
 
 Isaac Sim provides the capability to sense friction during simulation. Friction is an important physical property that affects the interaction and movement of objects in a simulated environment. Here's a general overview of how friction can be sensed in Isaac Sim:
 
