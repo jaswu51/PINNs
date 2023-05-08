@@ -29,3 +29,15 @@ To detect or estimate friction using MuJoCo, you would typically need to impleme
 It's worth noting that MuJoCo is a highly customizable physics engine, and it provides an extensive API that allows users to implement their own sensors and controllers. With the flexibility offered by MuJoCo, you can design and integrate custom sensors that specifically capture and measure frictional forces within your simulations.
 
 Overall, while MuJoCo does not offer direct friction detection functionality out of the box, it provides the tools and capabilities necessary to analyze and estimate friction forces based on contact interactions and custom sensor measurements.
+
+### Bias Force
+
+Bias force refers to an additional force acting on an object or system that can affect its motion. In the context of Coriolis, centrifugal, and gravitational forces, bias forces are associated with specific physical phenomena.
+
+Coriolis Force: The Coriolis force is an apparent force that acts on a moving object in a rotating frame of reference. It arises due to the rotation of the Earth and is perpendicular to both the velocity of the moving object and the axis of rotation. The Coriolis force influences the direction of motion of objects, causing them to deflect to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. This force is responsible for phenomena like the rotation of weather systems and the deflection of moving objects on the Earth's surface.
+
+Centrifugal Force: The centrifugal force is a fictitious or pseudo force that appears to act on an object moving in a rotating frame of reference. It is directed away from the center of rotation and is proportional to the distance of the object from the axis of rotation. The centrifugal force arises due to inertia and is perceived as an outward force. In reality, it is not a true force but rather an effect observed in a rotating reference frame. The centrifugal force plays a role in various systems, such as the behavior of objects in rotating machinery or the dynamics of particles in a centrifuge.
+
+Gravitational Force: The gravitational force is the force of attraction between two objects with mass. It is one of the fundamental forces of nature and is responsible for holding celestial bodies like planets, stars, and galaxies together. The gravitational force follows the inverse-square law, which means it weakens with distance. In the context of bias forces, gravitational force can introduce a bias in the motion of objects, particularly when dealing with systems affected by gravity, such as satellites orbiting a planet or a spacecraft undergoing gravitational maneuvers.
+
+In summary, bias forces such as Coriolis, centrifugal, and gravitational forces are additional forces that can influence the motion of objects or systems in specific contexts, and their effects need to be considered when analyzing or predicting motion in those scenarios.
