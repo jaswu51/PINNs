@@ -2,6 +2,10 @@
 
 https://www.youtube.com/watch?v=DCfIofZ6BY8
 
+### Kinematics Of Rigid Bodies - General Plane Motion
+
+https://www.youtube.com/watch?v=4LsLy9iJKFA
+
 ### Definite intervals
 
 https://www.youtube.com/watch?v=-JSVueLK3fc
